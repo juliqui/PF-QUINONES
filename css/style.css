@@ -44,6 +44,7 @@ p {
   text-align: center;
 }
 
+
 .text-section h2{
   margin-bottom: 40px;
 }
@@ -90,6 +91,10 @@ p {
 
 .image-container-services {
   grid-template-columns: repeat(2, 1fr);
+}
+
+.pod {
+  max-width: 85%;  
 }
 
 .image-container-services img {
